@@ -1,6 +1,6 @@
 #  UW 3: Password Generator
 
-Application is published at: https://tosh-skyler.github.io/passwordGenerator/
+Application is published at: https://tosh-skyler.github.io/Unit-3-PasswordGenerator/
 
 This application is a password generator powered by Javascript. The application can take between 8 to 128 characters, though it does accept down to 1.
 
